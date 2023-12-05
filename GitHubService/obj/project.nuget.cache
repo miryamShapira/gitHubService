@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NyjOm0pTbNJZgZprwBJ5r3GuomZ7sDWeTHswxE5OJ8enm/vdCH4TxlkesjDn4Ezat4/hICEux8AuC04ZUsDFhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Music\\GitHubService\\GitHubService\\GitHubService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\octokit\\9.0.0\\octokit.9.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\octokit.reactive\\9.0.0\\octokit.reactive.9.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
